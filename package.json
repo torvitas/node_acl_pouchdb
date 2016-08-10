@@ -21,11 +21,10 @@
   },
   "homepage": "https://github.com/thaliproject/node_acl_pouchdb",
   "dependencies": {
-    "acl": "^0.4.7",
-    "lodash": "^3.6.0",
-    "memdown": "^1.0.0",
-    "pouchdb": "^3.4.0",
-    "rx": "^2.5.2"
+    "acl": "^0.4.9",
+    "lodash": "^4.14.2",
+    "pouchdb": "^5.4.5",
+    "rx": "^4.1.0"
   },
   "devDependencies": {
     "chai": "^2.2.0",
